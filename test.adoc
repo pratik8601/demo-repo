@@ -1,1 +1,450 @@
-This is a prank
+= ELP305
+II Semester 2022-23
+:lang: en
+
+[[header]]
+== Report on _
+
+[#author .author]#BNavi Tribe#
+
+[[toc]]
+[[toctitle]]
+Table of Contents
+
+* link:#_tribe_member_information[1. Tribe Member Information]
+* link:#_documentation_statistics[2. Documentation Statistics]
+** link:#_text_statistics[2.1. Text Statistics]
+** link:#_readability_statistics[2.2. Readability Statistics]
+** link:#_list_of_abbreviations[2.3. List of Abbreviations]
+* link:#_requirements[3. Requirements]
+** link:#_input_output_requirements[3.1. Input Output Requirements]
+** link:#_logistical_requirements[3.2. Logistical Requirements]
+** link:#_environmental_requirements[3.3. Environmental Requirements]
+** link:#_structural_requirements[3.4. Structural Requirements]
+** link:#_features[3.5. Features]
+* link:#_specifications[4. Specifications ]
+** link:#_adaptor_specifications[4.1 Adaptor Specifications]
+** link:#_masterchip[4.2 Master-Control Chip]
+*** link:#_chip_features[4.2.1 Chip Features]
+*** link:#_maximum_rating[4.2.2 Maximum Rating]
+**  link:#_cable[4.3 Cable]
+***  link:#_cable_specifications[4.3.1 Cable Specifications]
+***  link:#_standards[4.3.2 Standards/Certifications]
+** link:#_charger_pins[4.4 Charger Pins]
+***  link:#_pins_specifications[4.4.1 Charger Pins Specifications]
+* link:#_circuit_specifications[5. Circuit Specifications]
+* link:#_power_and_safety[6. Power and Safety]
+** link:#_power_specifications[6.1 Power Specifications]
+** link:#_safety_specifications[6.2 Safety Specifications ]
+
+
+
+
+ 
+[[content]]
+
+[[_tribe_member_information]]
+== 1. Tribe Member Information
+[cols="5%,12%,12%,15%,10%,15",options="header",]
+|===
+|*SNo* |*Name* |*Entry No*|*Email*| *Participation*|*Roles*
+
+|1 |Ashwendh Chowdhary |2020EE10478|ee1200478@iitd.ac.in||
+|2 |Priyanshu Jain |2020EE30617|ee3200617@iitd.ac.in||
+|3 |Ayush Kumar |2020EE30586|ee3200586@iitd.ac.in||
+|4 |Bijanapally Tarun |2020EE30588|ee3200588@iitd.ac.in||
+|5 |Ankit Kumar |2020MT10788|mt1200788@iitd.ac.in||
+|6 |Gaurav Sewda |2020EE10492|ee1200492@iitd.ac.in||
+|7 |Hanish Goyal |2020MT10805|mt1200805@iitd.ac.in||
+|8 |Yash Jayswal |2020EE10568|ee1200568@iitd.ac.in||
+|9 |Dev Chandna |2020EE30591|ee3200591@iitd.ac.in||
+|10 |Aashish Kumar |2020MT10778|mt1200778@iitd.ac.in||
+|11 |Anukriti |2020EE30582|ee3200582@iitd.ac.in||
+|12 |Kanishka Singh |2020EE10504|ee1200504@iitd.ac.in||
+|13 |Divyansh Mohan Bansal |2020MT10800|mt1200800@iitd.ac.in||
+|14 |Ansh Jain |2020EE30598|ee3200598@iitd.ac.in||
+|15 |Aditya Mathur |2020EE30575|ee3200575@iitd.ac.in||
+|16 |Anish Majumder |2020EE30580|ee3200580@iitd.ac.in||
+|17 |Mohammad Areeb |2020MT10656|mt1200656@iitd.ac.in||
+|18 |Adarsh Soni |2020EE10457|ee1200457@iitd.ac.in||
+|19 |Aditya Dhukia |2020EE10459|ee1200459@iitd.ac.in||
+|20 |Arjun Aggarwal |2020EE30744|ee3200744@iitd.ac.in||
+|21 |Vineet Kumar Pathak |2020EE30631|ee3200631@iitd.ac.in||
+|22 |Parth Kamra |2020EE10519|ee1200519@iitd.ac.in||
+|23 |ajeet kumar |2020EE30577|ee3200577@iitd.ac.in||
+|24 |Pranjal Sachan |2020EE30615|ee3200615@iitd.ac.in||
+|25 |Bolledhu Sree Divya |2020EE10483|ee1200483@iitd.ac.in||
+|26 |Satyam Sagar |2020EE10551|ee1200551@iitd.ac.in||
+|27 |Sourabh Agrawal |2020EE10556|ee1200556@iitd.ac.in||
+|28 |Amogh Vikram Agrawal |2020EE10467|ee1200467@iitd.ac.in||
+|29 |Parul Meel |2020EE30611|ee3200611@iitd.ac.in||
+|30 |Prakash Tiwari |2020EE10524|ee1200524@iitd.ac.in||
+|31 |Rishu Raj |2020EE10541|ee1200541@iitd.ac.in||
+|32 |Satyam Singh Gour |2020EE30625|ee3200625@iitd.ac.in||
+|33 |Tripti Jain |2020EE10561|ee1200561@iitd.ac.in||
+|34 |Shashwat Gokhe |2020EE30127|ee3200127@iitd.ac.in||
+|35 |Jaideep |2020EE10500|ee200500@iitd.ac.in||
+|36 |Neeraj Kumar Meena |2020EE30606|ee3200606@iitd.ac.in||
+|37 |Agnivesh Singh |2020EE10464|ee1200464@iitd.ac.in||
+|38 |Nikita Khedar |2020EE10515|ee1200515@iitd.ac.in||
+|39 |Rohit Verma |2020EE10542|ee1200542@iitd.ac.in||
+|40 |Ritanshu Dhiman |2020EE30621|ee30621@iitd.ac.in||
+|41 |Vivek Kumar |2020EE30634|ee3200634@iitd.ac.in||
+|42 |Ishan |2020EE10498|ee1200498@iitd.ac.in||
+|43 |Arpit Goyal |2020MT60870|mt6200870@iitd.ac.in||
+|44 |Chandrakant Rajput |2020EE10485|ee1200485@iitd.ac.in||
+|45 |Jaypal |2020EE30600|ee3200600@iitd.ac.in||
+|46 |Monika |2020EE10512|ee1200512@iitd.ac.in||
+|47 |Praveen Singh |2020EE30616|ee3200616@iitd.ac.in||
+|48 |Yashi Poddar |2020EE10569|ee1200569@iitd.ac.in||
+|49 |Kanta Meena |2020EE30601|ee3200601@iitd.ac.in||
+|50 |Rani Meena |2020EE10537|ee1200537@iitd.ac.in||
+|51 |Atharva Pratap Suryawanshi |2020MT10791|mt1200791@iitd.ac.in||
+|52 |Shreyansh Jain |2020MT10852|mt1200852@iitd.ac.in||
+|53 |Shashank Narain |2020EE10972|ee1200972@iitd.ac.in||
+|54 |Harshvardhan Patel |2020MT10808|mt1200808@iitd.ac.in||
+|55 |Aditya Agrawal |2020MT10783|mt1200783@iitd.ac.in||
+|56 |Kushagra Mittal |2020EE10603|ee1200603@iitd.ac.in||
+|57 |Mohit Kumar Gond |2020MT20823|mt1200823@iitd.ac.in||
+|58 |Ravi Raj Kumawat |2020MT10835|mt1200835@iitd.ac.in||
+|59 |Srikanth R |2020EE10557|ee1200557@iitd.ac.in||
+|60 |Ishi Gupta |2020EE10499|ee1200499@iitd.ac.in||
+|61 |Dhruv Nagpal |2020EE11013|ee1201013@iitd.ac.in||
+|62 |Dhruv Agarwal |2020EE30592|ee3200592@iitd.ac.in||
+|63 |Akshat Chauhan |2020EE30578|ee3200578@iitd.ac.in||
+|64 |Abhyuday Bhargava |2020EE30214|ee3200214@iitd.ac.in||
+|65 |Ansh Goel |2020EE10226|ee1200226@iitd.ac.in||
+|66 |Kunal |2020EE10507|ee1200507@iitd.ac.in||
+|67 |Maitree Shandilya |2020EE10510|ee1200510@iitd.ac.in||
+|68 |Pratik Behera |2020MT10831|mt120831@iitd.ac.in||
+|===
+
+[[_documentation_statistics]]
+== 2. Documentation Statistics
+
+[[_text_statistics]]
+=== 2.1. Text Statistics
+[cols="<,<,<,<,<", options="header",]
+|=====
+|*Word Count*|*# Unique Words*|*# Repeated Words*|*# Sentences*|*# Characters*
+|2051|768|1283|145|9416
+|*# Syllables*|*Avg # of words per sentence*|*Avg # of characters per sentence*|*Avg # of characters per word*|*Avg # of syllables per word*
+|3143|14|64.4|4.6|2
+|=====
+
+[[_readability_statistics]]
+=== 2.2. Readability Statistics
+[cols="2,2,2",options="header",]
+|===
+|Readability Index |Score |Can be easily understood by
+|Flesch Reading Ease score |55.4 |College graduate students
+|Gunning Fog Score |10.1 |College graduate students
+|Flesch-Kincaid Grade level |12.1 |Twelfth Grade students
+|The Coleman-Liau Index |9 |Ninth Grade students
+|Automated Readability Index |7.4 |Seventh Grade students
+|SMOG Formula score |10 |Tenth grade students
+|Linear Write Formula Score |14.6 |College graduate students
+|===
+The above results were obtained using
+https://readabilityformulas.com/freetests/six-readability-formulas.php.
+
+[[_list_of_abbreviations]]
+=== 2.3. List of Abbreviations
+[cols="^,^,^",options="header",]
+|===
+
+|S. No. |Abbreviation |Stands For
+|===
+|===
+|1 |USB |Universal Serial Bus
+|2 |PIC |Peripheral Interface Controller
+|3 |LED |Light Emitting Diode
+|4 |DSO |Digital Storage Oscilloscope
+|5 |AC |Alternating Current
+|6 |DC |Direct Current
+|7 |IC |Integrated Circuit
+|===
+
+[[_requirements]]
+== 3. Requirements
+In the following section, we have given various requirements for a phone charger that we will need for our design.
+
+[[_input_output_requirements]]
+=== 3.1. Input Output Requirements
+* *Input*: Type C plug, 100-230V, 50-60Hz, 0.6 A.
+* *Output*: 5V, 2Amp to 10V, 6.5Amp.Using USB Power Delivery (USB PD) it is a technology that allows for variable power output and flexible charging of devices. It also allows for reverse power flow, which means that a device can also charge another device or even a battery. A microcontroller can be used to control and regulate the charging process, in order to implement variable power output. PIC microcontrollers (ex. Linear Technology’s LTC4055, Texas Instruments’ bq2429x, Maxim Integrated’s MAX14526, NXP’s MC3467) are widely used in chargers due to their low cost, high performance, and easy-to-use programming.
+* *Power requirement*: 10W to 100W.
+
+[[_logistical_requirements]]
+=== 3.2. Logistical Requirements
+* *Packaging*: The charger should be packaged in a way that ensures it is protected from damage.
+* *Durability*: Robust design to withstand frequent use and travel.
+* *Portability*: For more portability, the LED light segment should be the first choice.
+* *Labelling*: The charger should be clearly labelled with all relevant information, including the output voltage and amperage, safety warnings, and the name and contact information of the manufacturer.
+* *Compliance*: The charger should comply with all relevant regulations and standards regarding storage, handling, and transportation. It should also be BIS(Bureau of Indian Standards) approved.
+* *Laboratory and Testing*: To test the charger, we need testing equipment like DSO, multi-meter, power supply, function generator, and precision soldering tools. The components need to be tested to prevent breakdown.
+* *Manufacturing*: The product has to be manufactured by a third manufacturer, or the body gets 3D printed in Lab.
+* *Components*: We need step-down transformers, Diodes, capacitors, resistors, wires, transistors, and a PIC microcontroller.
+
+[[_environmental_requirements]]
+=== 3.3. Environmental Requirements
+* *Temperature range*: -10℃ to 60℃.
+* *Humidity*: Chargers must be able to operate in a range of humidity levels, typically between 20% and 90%.
+* *Water resistant*: Charger’s edges and ports need to be rubber sealed, to prevent the circuit from water.
+* *Altitude*: Chargers must be able to operate at a range of altitudes, typically up to 2,000 meters above sea level.
+* *Shock and vibration*: Chargers must be able to withstand a certain level of shock and vibration without damage or malfunction.
+* *EMI/EMC*: Chargers must meet electromagnetic interference (EMI) and electromagnetic compatibility (EMC) standards to ensure that they do not interfere with other electronic devices.
+* *Safety Standards*: Chargers must meet safety standards to ensure that they do not pose a risk of fire or electric shock.
+* *Energy efficiency*: Chargers must meet energy efficiency standards to minimize energy consumption and reduce environmental impact. Minimize No Load power consumption.
+
+[[_structural_requirements]]
+=== 3.4. Structural Requirements
+* *Dimensions:* The Dimensions of the charger should be around (6cm*6cm*4cm).
+* *Plug Type:* The charger should be *2-pin plug(Type C)* (2-pin plugs are widely used in India, but it is important to make sure it is BIS approved for safety and compliance)
+* *Material and Design:* The *material* and design of the charger should be such that it should be able to withstand a fall from a height of 2m or less. Some people like to keep their mobile phones on top of the charger so adequate design changes should be made to the adapter. Also, we now need to make sure that the heat generated in the charger shouldn’t be transferred to the mobile phone, in that case, the material chosen should have better insulation properties than a standard one. For this polycarbonate, casing seems to be the best considering price, drop strength, and weight.
+* *Adapter-cable joint:* The adapter-cable joint is made to disconnect when a jerk is applied quickly but to remain firmly attached otherwise, protecting the phone from damage during tripping.
+* *Length of cable:* The length of the cable should range from 3 to 4 feet. The cable should be tangle free.
+* *Wire thickness:* The wire in it should be thick enough to work at 65 W but not more than that. It should also have the option for sending data from computer to phone and vice versa(data cable). It should be durable enough such that even if someone treads on it, it remains safe and should also withstand a load of minimum 150N. It should be a USB 3.X cable with USB C type connector. To ensure we can charge a range of devices, it’s best to go with 2A ports at minimum.
+* *Charger pins:* Pins should be made of a material that has low cost, good electrical resistivity, and good wear resistance. For this Brass seems to have a mix of all three properties and hence it should be used
+* *Location of port:* It should be front rather than on the side after considering spacing (both in real life and along the board), aesthetics
+* *Label Information:* Brand name and logo, Input and output voltage and current specifications, Type of connector, Compatibility, Safety certifications and standards (e.g., IBS), Product dimensions and weight, country of origin, instructions for use and safety precautions Warranty or guarantee information.
+* *Casing Opening:* The charger case will open from the rear end, keeping the area near the pins fixed to ensure easy assembly. moreover, the transverse cross-section of the charger will be fixed to protect from dust and moisture and structural integrity
+
+[[_features]]
+=== 3.5. Features
+* *Safety Features*: Over-current, over-voltage, and short-circuit protection.
+* *Efficient Charging*: Optimised for quick charging of mobile devices.
+* *Magnetic Cables*: Materials used for the connector which attaches to the device’s charging port are made of metals like aluminum or stainless steel, and the cable itself is usually made up of copper, and the cable jacket is made of PVC or TPE, the magnets inside the connector are made of neodymium, samarium cobalt and others that have high magnetic properties.ge at
+http://www.methods.co.nz/asciidoc/[^]. 
+[[_specifications]] +
+
+== 4. Specifications  
+In the following section, we give a brief on various specifications of the components that we will be using in our mobile charger. +
+
+[[_adaptor_specifications]]
+
+=== 4.1 Adaptor Specifications
+
+
+
+A mobile charger adaptor’s primary function is to provide the necessary DC power for charging a device’s battery. The adaptor takes the incoming AC voltage and changes it to DC at a lower voltage suitable for charging. +
+
+* *Material*: A thermoplastic made using a blend of PC and ABS.
+* *Operational temperature range* : -20^o^C to 125^o^C.
+* *Density*: 1.15 g/cm^3^.
+* *Durability*: The material can withstand a pressure of 138.9
+kg/cm^2^ without breaking. The adaptor can also withstand
+sudden jerks and drops to the ground (within a reasonable range, i.e.,
+around 3 meters). It also has good chemical-resistant properties making
+it viable in hazardous conditions.
+* *Dielectric Strength*: 30-50 kV/mm.
+
+[[_masterchip]]
+
+=== 4.2 Master-control chip
+
+The control circuit can identify portable device types and the most
+suitable voltage, supporting applications on the universal adapters as
+well as simplifying setup for various kinds of batteries. We are using
+ON Semi NCP1342 IC as our Master control chip. It has a Quasi-Resonant
+Flyback- Controller, which supports high frequency Switching with wide
+input and output ranges. It has low cost, high efficiency, and low
+standby power.
+
+[[_chip_features]]
+
+==== 4.2.1 Features
+
+* *Switching Frequency*: 25Khz.
+* *Input VCC ranges*: from 9V to 28V.
+* *Fault Pin*: Present.
+* *Internal Temperature Shutdown*: Present.
+* *Soft-Start time*: 4ms.
+* *Storage Temperature range* : -40^o^C to 150^o^C.
+* *Saturation Detection*: Present.
+
+[[_maximum_rating]]
+
+==== 4.2.2 Maximum ratings
+
+* *High Voltage Startup circuit Input Voltage*: -0.3V to 700V.
+* *High Voltage Startup circuit Input Current*: 20A.
+* *Supply Input Voltage* : -0.3V to 30 V.
+* *Supply input current*: 30A.
+* *Supply input voltage slew rate*: 1.
+* *Max. Input voltage(Other pins )*: -0.3V to 5.5 V.
+* *Max. Input Voltage(Other pins*): 10A.
+* *Max. Junction Temperature*: 150C.
+
+[[_cable]]
+=== 4.3 Cable
+
+[[_cable_specifications]]
+==== 4.3.1 Cable Specifications
+
+* *Length*: 1.2 meters.
+* *Material*: Copper.
+* *Insulation*: DuPont Kevlar fibre.
+* *Connector type*: Type-A (1* USB 2.0) to Type-C (1*USB 3.0).
+* *Thickness*: 3mm to 4mm.
+
+[[_standards]]
+==== 4.3.2 Standards/ Certifications
+
+* *IS 616*:2018 is the BIS (Bureau of Indian Standards) standard for
+wires used in mobile charging cables. The standard specifies that
+charger cables for mobile phones and other portable electronic devices
+must pass mechanical, electrical, and environmental tests.
+* *RoHS (Restriction of Hazardous Substances) compliance*: This
+certification indicates that the cable does not contain harmful
+substances such as lead, mercury, or cadmium.
+* *REACH (Registration, Evaluation, Authorisation, and Restriction of
+Chemicals) compliance*: This certification indicates that the cable does
+not contain any dangerous chemicals.
+* *FCC (Federal Communications Commission) Compliance*: This
+certification indicates that the cable does not interfere with other
+electronic devices.
+* *IS 60900*:2012 (Insulated Tools for Live Working): This is a standard
+set by BIS for insulated tools used for live working in India. Live
+working refers to performing electrical work on live electrical
+equipment or systems, such as power lines and electrical panels.
+* *IS 9999:2010 (Code of Practice for Packaging for Terminals)*: This is
+a standard set by BIS for packaging terminals in India. This standard
+covers the guidelines for packaging terminals, including phone chargers,
+which are intended to protect the terminals from damage during
+transportation and storage.
+* *IS 137000*:2016 (Specification for USB Type-C Charger Adapters): This
+is a standard set by BIS for USB Type-C charger adapters in India. This
+standard covers the safety, performance, and environmental requirements
+for USB Type-C charger adapters.
+
+[[_charger_pins]]
+
+=== 4.4 Charger Pins.
+
+[[_pins_specifications]]
+
+==== 4.4.1 Specifications
+
+* *Material*: Brass with 58% copper and 42% zinc.
+* *Separation between pins centers*: 17.5mm-18.6mm.
+* *Diameters of pin*: 5.04mm.
+* *Pin length*: 19mm.
+* *Number of Pins*: 2.
+* *Plug type*: Type C.
+* *Ampere rating*: 2.5A.
+* *Voltage*: 220V-240V.
+
+
+For Product link click
+https://www.indiamart.com/proddetail/mobile-charger-pins-22333824473.html?pos=2&pla=n[here]
+
+[[_circuit_specifications]]
+
+== 5. Circuit Specifications 
+  
+[cols="2,2,1,4",options="header",]
+|===
+|Device /component |Rating/value |Quantity |Remarks
+|Bridge Rectifier |1N4007 PN |1 |converts the alternating current (AC)
+from the power supply into direct current (DC)
+
+|Step-down transformer |2.5W |1 |Steps down the voltage
+
+|Polyester Film Capacitor |2.2uF/450V |1 |smooth out voltage
+fluctuations, store energy in the circuit.
+
+|Polyester Film Capacitor |4.7nF/100V |1 |smooths out voltage
+fluctuations, stores energy in the circuit.
+
+|Electrolyte Capacitor |470uF/25V |1 |smooth out any ripple or noise in
+the rectified DC voltage
+
+|Electrolyte Capacitor |22uF/25V |1 |smooth out any ripple or noise in
+the rectified DC voltage
+
+|Ceramic Capacitor |100nF |1 |to separate the AC component of the input
+voltage from the DC component of the output voltage
+
+|Transistor |S8050 NPN |1 |act as a switch to control the flow of
+current through the circuit
+
+|Transistor |13001 NPN |1 |act as a switch to control the flow of
+current through the circuit
+
+|Flyback transformer |Wuerth-750343373 |1 |improve the efficiency,
+safety, and versatility of the charging process,
+
+|LED Inductor |2.0-3.5V /20-30 mA |1 |Indicates the charging status
+
+|Resistor |2 Mpass:[&Omega;] |1 |control the flow of current
+
+|Resistor |560 Mpass:[&Omega;] |1 |control the flow of current
+
+|Resistor |1 KMpass:[&Omega;] |1 |control the flow of current
+
+|Resistor |120 Mpass:[&Omega;] |1 |control the flow of current
+
+|Resistor |100 Mpass:[&Omega;] |1 |control the flow of current
+
+|Resistor |10 Mpass:[&Omega;] |1 |control the flow of current
+
+|Fuse Resistor |2.6 Mpass:[&Omega;]/1W |1 |limit the maximum current
+that can flow into the circuit
+
+|Zener Diode |4.2V |1 |used for rectification and protection.
+
+|Schottky Diode |1N5819 |1 |improve the efficiency, stability, and
+reliability of the charging process
+
+|PN Bridge Rectifier diode |1N4007 |1 |converts AC to fluctuating DC
+
+|Thermistor |300 ohm |1 |for overheating detection
+
+|Optocoupler |PC817C,SFH617A-1 |1 |helps to improve safety, reduce EMI,
+and increase reliability
+
+|USB-Jack |USB-B |1 |used as electrical connectors to physically connect
+the charger to the device being charged
+
+|USB-Jack |USB-A |1 |used as electrical connectors to physically connect
+the charger to the device being charged
+
+|TinySwitch-II |TNY267G |1 |control the power conversion process
+
+|IC |L6565 |1 |to control and regulate the charging process
+
+|Fast switching rectifier |BA159 |2 |high efficiency and fast response
+time
+|===
+
+[[_power_and_safety]]
+
+== 6. Power and Safety
+
+[[_power_specifications]]
+
+=== 6.1 Power Specifications
+
+* *Source*: AC adapter.
+* *Input*: 220V, 50Hz.
+* *Output*: 2.1A, 5W(Normal Charging)/20W(Fast Charging).
+* *Input Power factor*: 0.7.
+
+[[_safety_specifications]]
+
+=== 6.2 Safety features 
+--
+* *Over voltage protection*: Varistors are used as suppressors to
+protect devices and circuits from transient abnormal voltages, including
+an ESD (electrostatic discharge) and a lightning surge. Leaded disk
+varistors and SMD disk varistors are suitable for protection from a
+relatively large surge current (100A to 25kA).
+* *Short Circuit Protection*: A circuit breaker is used here to break
+the circuit from the power supply separating the load from the power
+supply in a short time (cutoff time).
+* *Over Current Protection*: The charging current is controlled by a
+switch/transistor connected in parallel with the photovoltaic panel and
+the storage battery (Current sensing circuit). Overcharging of the
+battery is prevented by shorting (shunting) the PV output through the
+transistor when the voltage reaches a predetermined limit.
