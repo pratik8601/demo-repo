@@ -192,16 +192,4 @@ viable option for structure mounting.
 <<<
 [page]
 [[_ref]]
-== 5. References
-1. S. Liu, Y. Liu, J. Li, Y. Li, and X. Chen, "A low-cost dual-axis solar tracking system based on digital logic design: Design and implementation," Journal of Renewable and Sustainable Energy, vol. 12, no. 1, p. 015005, 2020.
-2. P. Dunne, "What Is The Best Angle For Solar Panels: Tips For A Good Solar Panel Angle," Forbes, Nov. 2020.
-3. M. A. Rahman, M. R. Karim, and M. H. Ali, "Design and Analysis of a Low-Cost Solar Tracker," Energies, vol. 9, no. 9, p. 717, Aug. 2016. doi: 10.3390/en9090717.
-
-4. F. M. Hadi, A. H. A. Bakar, and M. A. Othman, "Material Selection for Solar Tracking System," in 2018 4th International Conference on Science and Technology (ICST), 2018, pp. 1-4. doi:10.1109/ICSTC.2018.8536349
-
-5. Renewable Watch, "Materials Analysis," [Online]. Available: https://renewablewatch.in/2019/06/28/materials-analysis/.[Accessed: Mar. 28, 2023].
-
-6. S. Schöberl and S. Völker, "A Guide to Mounting Structures for Solar Panels PV," [Online]. Available: https://sinovoltaics.com/solar-basics/a-guide-to-mountingstructures-for-solar-panels-pv/
-
-7. Solar Feeds, "Solar Trackers: Types and Its Advantages and Disadvantages," Solar Feeds Magazine, May 10, 2021, https://www.solarfeeds.com/mag/solar-trackers-types-and-its-advantages-and-disadvantages/.
-8. SolarSquare, "What is a Solar Tracker and How Does it Work?" SolarSquare Blog, Aug. 16, 2021, https://www.solarsquare.in/blog/solar-tracker/.
+1
