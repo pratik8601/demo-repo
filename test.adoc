@@ -68,15 +68,7 @@ https://readabilityformulas.com/freetests/six-readability-formulas.php.
 
 |S. No. |Abbreviation |Stands For
 |===
-|===
-|1 |USB |Universal Serial Bus
-|2 |PIC |Peripheral Interface Controller
-|3 |LED |Light Emitting Diode
-|4 |DSO |Digital Storage Oscilloscope
-|5 |AC |Alternating Current
-|6 |DC |Direct Current
-|7 |IC |Integrated Circuit
-|===
+|
 
 [[_requirements]]
 == 3. Requirements
