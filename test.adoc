@@ -393,22 +393,6 @@ the charger to the device being charged
 time
 |===
 
-[[_power_and_safety]]
-
-== 6. Power and Safety
-
-[[_power_specifications]]
-
-=== 6.1 Power Specifications
-
-* *Source*: AC adapter.
-* *Input*: 220V, 50Hz.
-* *Output*: 2.1A, 5W(Normal Charging)/20W(Fast Charging).
-* *Input Power factor*: 0.7.
-
-[[_safety_specifications]]
-
-=== 6.2 Safety features 
 --
 * *Over voltage protection*: Varistors are used as suppressors to
 protect devices and circuits from transient abnormal voltages, including
