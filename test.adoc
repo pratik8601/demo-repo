@@ -67,18 +67,6 @@ pass:[<div style="text-align:center; font-size:50px"><br>Week 1 <br> Requirement
 <<<
 [cols="2%,18%,10%,15%,10%,10%,1%",options="header",]
 |===
-|SNo |Name |Entry No|Email|Designation|Vertical|IF
-|56|Upasak Sharma|2020EE10310|upasak19dhotra@gmail.com|Team Member|Research-Embedded Systems|0
-|57|V Sai Niketh|2020MT60895|sainiketh2002@gmail.com|Team Member|Research-Embedded Systems|0.7
-|58|Vanchanagiri Alekhya|2020EE10565|alekhya.vanchanagiri@gmail.com|Team Member|Research-Embedded Systems|1
-|59|Vineet Kumar|2020MT10862|vkraj0383@gmail.com|Team Member|Research-Embedded Systems|1
-|60|Mohit Kumar Gond|2020MT10823|mohitgond170@gmail.com|Sub Co-ordinator| Research-Rotational Mechanics|1
-|61|Abhay Saini|2020EE10455|optimusprime94135@gmail.com|Team Member|Research-Rotational Mechanics|0.7
-|62|Ankit Kumar|2020MT10788|akmeena26012003@gmail.com|Team Member|Research-Rotational Mechanics|1
-|63|Arpit Goyal|2020MT60870|goyalarpit015@gmail.com|Team Member|Research-Rotational Mechanics|1
-|64|Bolledhu Sree Divya|2020EE10483|sreedivyab03@gmail.com|Team Member|Research-Rotational Mechanics|1
-|65|Dhruvendra|2020EE10487|endradhruv@gmail.com|Team Member|Research-Rotational Mechanics|1
-|66|Harsh Sharma|2019MT60628|harsh2001apcr@gmail.com|Team Member|Research-Rotational Mechanics|1
 |67|Kanta Meena|2020EE30601|Kantameenaiitd2000@gmail.com|Team Member|Research-Rotational Mechanics|0
 |===
 <<<
