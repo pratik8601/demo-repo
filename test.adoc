@@ -49,26 +49,7 @@ pass:[<div style="text-align:center; font-size:50px"><br>Week 1 <br> Requirement
 
 |1|Divyansh Mohan Bansal |2020MT10800|bansal.divyansh14@gmail.com|Co-ordinator|Logistics|1
 |2|Ravi Raj Kumawat|2020MT10835|ravirajkumawat2020@gmail.com|Sub Co-ordinator|Logistics|1
-|3|Aashish Kumar|2020MT10778|aksofpm001@gmail.com|Sub Co-ordinator|Design|1
-|4|Hanish Goyal|2020MT10805|hanishgoyal0708@gmail.com|Sub Co-ordinator|Design|1
-|5|Abhinav Sharma|2020MT10780|abhi24082014sharma@gmail.com|Team Member|Design|1
-|6|Arshia|2020EE11002|arshia.rashi13@gmail.com|Team Member|Design|1
-|7|Krishna Kumar Singh|2020MT10814|sskrishna1122@gmail.com|Team Member|Design|0.7
-|8|Muvva Srija|2020EE30605|muvvasrija@gmail.com|Team Member|Design|1
-|9|Sanya Mehadia|2020EE30623|sanyaamehadia@gmail.com|Team Member|Design|0.4
-|10|Shivam Jharwal|2020MT60892|jharwalshivam@gmail.com|Team Member|Design|1
-|11|Shrey Chandra|2020EE10553|cshrey2002@gmail.com|Team Member|Design|0.4
-|12|Shubham Raj|2020EE10555|shubhamraj.tfx@gmail.com|Team Member|Design|1
-|13|Smrati Tripathi|2020MT10855|smrati.iitdelhi@gmail.com|Team Member|Design|0.7
-|14|Valla Chaitanya Krishna|2020EE10564|chaitanyakrishnavalla007@gmail.com|Team Member|Design|1
-|15|Atharva Pratap Suryawanshi|2020MT10791|suryawanshiatharva2029@gmail.com|Sub Co-ordinator|Documentation|1
-|16|Pratik Behera|2020MT10831|pratikbehera247@gmail.com|Sub Co-ordinator|Documentation|1
-|17|Aakrity Pandey|2020MT60865|ritaakrity@gmail.com|Team Member|Documentation|1
-|18|Adarsh Roy|2020MT10782|adarshroy.formal@gmail.com|Team Member|Documentation|0.7
-|19|Basani Tharuni|2020MT10793|basanitharunireddy20@gmail.com|Team Member|Documentation|0.7
-|20|Brahamjot Singh|2020MT10794|brahamjot2511@gmail.com|Team Member|Documentation|1
-|21|Deepak|2019MT10685|Deepakkhichar60@gmail.com|Team Member|Documentation|0.7
-|22|Kushagra|2020EE10603|kushagraiitdelhi2022@gmail.com|Team Member|Documentation|1
+
 |===
 [cols="2%,18%,10%,15%,10%,10%,1%",options="header",]
 |===
