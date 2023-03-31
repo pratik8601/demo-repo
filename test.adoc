@@ -49,6 +49,54 @@ Table of Contents
 |===
 |*SNo* |*Name* |*Entry No*|*Email*| *Participation*|*Roles*
 
+|1 |Ashwendh Chowdhary |2020EE10478|ee1200478@iitd.ac.in||
+|2 |Priyanshu Jain |2020EE30617|ee3200617@iitd.ac.in||
+|3 |Ayush Kumar |2020EE30586|ee3200586@iitd.ac.in||
+|4 |Bijanapally Tarun |2020EE30588|ee3200588@iitd.ac.in||
+|5 |Ankit Kumar |2020MT10788|mt1200788@iitd.ac.in||
+|6 |Gaurav Sewda |2020EE10492|ee1200492@iitd.ac.in||
+|7 |Hanish Goyal |2020MT10805|mt1200805@iitd.ac.in||
+|8 |Yash Jayswal |2020EE10568|ee1200568@iitd.ac.in||
+|9 |Dev Chandna |2020EE30591|ee3200591@iitd.ac.in||
+|10 |Aashish Kumar |2020MT10778|mt1200778@iitd.ac.in||
+|11 |Anukriti |2020EE30582|ee3200582@iitd.ac.in||
+|12 |Kanishka Singh |2020EE10504|ee1200504@iitd.ac.in||
+|13 |Divyansh Mohan Bansal |2020MT10800|mt1200800@iitd.ac.in||
+|14 |Ansh Jain |2020EE30598|ee3200598@iitd.ac.in||
+|15 |Aditya Mathur |2020EE30575|ee3200575@iitd.ac.in||
+|16 |Anish Majumder |2020EE30580|ee3200580@iitd.ac.in||
+|17 |Mohammad Areeb |2020MT10656|mt1200656@iitd.ac.in||
+|18 |Adarsh Soni |2020EE10457|ee1200457@iitd.ac.in||
+|19 |Aditya Dhukia |2020EE10459|ee1200459@iitd.ac.in||
+|20 |Arjun Aggarwal |2020EE30744|ee3200744@iitd.ac.in||
+|21 |Vineet Kumar Pathak |2020EE30631|ee3200631@iitd.ac.in||
+|22 |Parth Kamra |2020EE10519|ee1200519@iitd.ac.in||
+|23 |ajeet kumar |2020EE30577|ee3200577@iitd.ac.in||
+|24 |Pranjal Sachan |2020EE30615|ee3200615@iitd.ac.in||
+|25 |Bolledhu Sree Divya |2020EE10483|ee1200483@iitd.ac.in||
+|26 |Satyam Sagar |2020EE10551|ee1200551@iitd.ac.in||
+|27 |Sourabh Agrawal |2020EE10556|ee1200556@iitd.ac.in||
+|28 |Amogh Vikram Agrawal |2020EE10467|ee1200467@iitd.ac.in||
+|29 |Parul Meel |2020EE30611|ee3200611@iitd.ac.in||
+|30 |Prakash Tiwari |2020EE10524|ee1200524@iitd.ac.in||
+|31 |Rishu Raj |2020EE10541|ee1200541@iitd.ac.in||
+|32 |Satyam Singh Gour |2020EE30625|ee3200625@iitd.ac.in||
+|33 |Tripti Jain |2020EE10561|ee1200561@iitd.ac.in||
+|34 |Shashwat Gokhe |2020EE30127|ee3200127@iitd.ac.in||
+|35 |Jaideep |2020EE10500|ee200500@iitd.ac.in||
+|36 |Neeraj Kumar Meena |2020EE30606|ee3200606@iitd.ac.in||
+|37 |Agnivesh Singh |2020EE10464|ee1200464@iitd.ac.in||
+|38 |Nikita Khedar |2020EE10515|ee1200515@iitd.ac.in||
+|39 |Rohit Verma |2020EE10542|ee1200542@iitd.ac.in||
+|40 |Ritanshu Dhiman |2020EE30621|ee30621@iitd.ac.in||
+|41 |Vivek Kumar |2020EE30634|ee3200634@iitd.ac.in||
+|42 |Ishan |2020EE10498|ee1200498@iitd.ac.in||
+|43 |Arpit Goyal |2020MT60870|mt6200870@iitd.ac.in||
+|44 |Chandrakant Rajput |2020EE10485|ee1200485@iitd.ac.in||
+|45 |Jaypal |2020EE30600|ee3200600@iitd.ac.in||
+|46 |Monika |2020EE10512|ee1200512@iitd.ac.in||
+|47 |Praveen Singh |2020EE30616|ee3200616@iitd.ac.in||
+|48 |Yashi Poddar |2020EE10569|ee1200569@iitd.ac.in||
 |49 |Kanta Meena |2020EE30601|ee3200601@iitd.ac.in||
 |50 |Rani Meena |2020EE10537|ee1200537@iitd.ac.in||
 |51 |Atharva Pratap Suryawanshi |2020MT10791|mt1200791@iitd.ac.in||
