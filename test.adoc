@@ -34,17 +34,7 @@ pass:[<div style="text-align:center; font-size:50px"><br>Week 1 <br> Requirement
 
 
 . link:#_tribe_member_information[ Tribe Member Information]
-. link:#_documentation_statistics[ Documentation Statistics]
-.. link:#_text_statistics[ Text Statistics]
-.. link:#_readability_statistics[ Readability Statistics]
-.. link:#_list_of_abbreviations[ List of Abbreviations]
-.. link:#_gant[ Gantt Chart]
-. link:#_abstract[ Abstract]
-. link:#_requirements[ Requirements]
-.. link:#_Rotational_Appratus[ Rotational Apparatus]
-.. link:#_Aparatus[ Apparatus]
-.. link:#_embedded[ Embedded]
-. link:#_ref[ References]
+
 
 <<<
 <<<
