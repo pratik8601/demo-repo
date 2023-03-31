@@ -50,19 +50,7 @@ Table of Contents
 |*SNo* |*Name* |*Entry No*|*Email*| *Participation*|*Roles*
 
 |1 |Ashwendh Chowdhary |2020EE10478|ee1200478@iitd.ac.in||
-|2 |Priyanshu Jain |2020EE30617|ee3200617@iitd.ac.in||
-|3 |Ayush Kumar |2020EE30586|ee3200586@iitd.ac.in||
-|4 |Bijanapally Tarun |2020EE30588|ee3200588@iitd.ac.in||
-|5 |Ankit Kumar |2020MT10788|mt1200788@iitd.ac.in||
-|6 |Gaurav Sewda |2020EE10492|ee1200492@iitd.ac.in||
-|7 |Hanish Goyal |2020MT10805|mt1200805@iitd.ac.in||
-|8 |Yash Jayswal |2020EE10568|ee1200568@iitd.ac.in||
-|9 |Dev Chandna |2020EE30591|ee3200591@iitd.ac.in||
-|10 |Aashish Kumar |2020MT10778|mt1200778@iitd.ac.in||
-|11 |Anukriti |2020EE30582|ee3200582@iitd.ac.in||
-|12 |Kanishka Singh |2020EE10504|ee1200504@iitd.ac.in||
-|13 |Divyansh Mohan Bansal |2020MT10800|mt1200800@iitd.ac.in||
-|14 |Ansh Jain |2020EE30598|ee3200598@iitd.ac.in||
+
 |15 |Aditya Mathur |2020EE30575|ee3200575@iitd.ac.in||
 |16 |Anish Majumder |2020EE30580|ee3200580@iitd.ac.in||
 |17 |Mohammad Areeb |2020MT10656|mt1200656@iitd.ac.in||
@@ -92,20 +80,7 @@ Table of Contents
 |41 |Vivek Kumar |2020EE30634|ee3200634@iitd.ac.in||
 |42 |Ishan |2020EE10498|ee1200498@iitd.ac.in||
 |43 |Arpit Goyal |2020MT60870|mt6200870@iitd.ac.in||
-|44 |Chandrakant Rajput |2020EE10485|ee1200485@iitd.ac.in||
-|45 |Jaypal |2020EE30600|ee3200600@iitd.ac.in||
-|46 |Monika |2020EE10512|ee1200512@iitd.ac.in||
-|47 |Praveen Singh |2020EE30616|ee3200616@iitd.ac.in||
-|48 |Yashi Poddar |2020EE10569|ee1200569@iitd.ac.in||
-|49 |Kanta Meena |2020EE30601|ee3200601@iitd.ac.in||
-|50 |Rani Meena |2020EE10537|ee1200537@iitd.ac.in||
-|51 |Atharva Pratap Suryawanshi |2020MT10791|mt1200791@iitd.ac.in||
-|52 |Shreyansh Jain |2020MT10852|mt1200852@iitd.ac.in||
-|53 |Shashank Narain |2020EE10972|ee1200972@iitd.ac.in||
-|54 |Harshvardhan Patel |2020MT10808|mt1200808@iitd.ac.in||
-|55 |Aditya Agrawal |2020MT10783|mt1200783@iitd.ac.in||
-|56 |Kushagra Mittal |2020EE10603|ee1200603@iitd.ac.in||
-|57 |Mohit Kumar Gond |2020MT20823|mt1200823@iitd.ac.in||
+|44 |Chandrakant Ra
 |58 |Ravi Raj Kumawat |2020MT10835|mt1200835@iitd.ac.in||
 |59 |Srikanth R |2020EE10557|ee1200557@iitd.ac.in||
 |60 |Ishi Gupta |2020EE10499|ee1200499@iitd.ac.in||
