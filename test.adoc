@@ -282,3 +282,51 @@ viable option for structure mounting.
 
 7. Solar Feeds, "Solar Trackers: Types and Its Advantages and Disadvantages," Solar Feeds Magazine, May 10, 2021, https://www.solarfeeds.com/mag/solar-trackers-types-and-its-advantages-and-disadvantages/.
 8. SolarSquare, "What is a Solar Tracker and How Does it Work?" SolarSquare Blog, Aug. 16, 2021, https://www.solarsquare.in/blog/solar-tracker/.git a
+
+<<<
+
+|===
+|Header 1 |Header 2 |Header 3 |Header 4 |Header 5 |Header 6
+
+|Column 1, row 1
+|Column 2, row 1
+|Column 3, row 1
+|Column 4, row 1
+|Column 5, row 1
+|Column 6, row 1
+
+|Column 1, row 2
+|Column 2, row 2
+|Column 3, row 2
+|Column 4, row 2
+|Column 5, row 2
+|Column 6, row 2
+
+|Column 1, row 3
+|Column 2, row 3
+|Column 3, row 3
+|Column 4, row 3
+|Column 5, row 3
+|Column 6, row 3
+
+|Column 1, row 4
+|Column 2, row 4
+|Column 3, row 4
+|Column 4, row 4
+|Column 5, row 4
+|Column 6, row 4
+
+|Column 1, row 5
+|Column 2, row 5
+|Column 3, row 5
+|Column 4, row 5
+|Column 5, row 5
+|Column 6, row 5
+
+|Column 1, row 6
+|Column 2, row 6
+|Column 3, row 6
+|Column 4, row 6
+|Column 5, row 6
+|Column 6, row 6
+|===
