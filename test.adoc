@@ -173,6 +173,7 @@ pass:[<div style="text-align:center; font-size:50px"><br>Week 1 <br> Requirement
 The above results were obtained using
 https://readabilityformulas.com/freetests/six-readability-formulas.php.
 
+<<<<<<< test
 == 2.c List of Abbreviations
 * *IF*   : Involvement Factor
 * *PWM*  : Pulse Width Modulation
@@ -261,6 +262,8 @@ viable option for structure mounting.
 *Micro-processors:* We intend to use a microcontroller like Atmega328, capable of running at low power, and simultaneously able to control and analyse incoming analog data from multiple sensors, hence computing solar direction. It should be able to give instructions to the motor driver for precise movements hence able to output PWM signals to the motor controller.
 
 *Sensors*: Photoresistors / Light dependent resistors are generally used to detect light. Analysing their analog output gives us the direction of direct sunlight. We require sensors consuming low voltage and power, and able to generate analog output based on intensity of sun. GPS chip can also be utlized to determine the precise longitude and latitude of the location.
+=======
+>>>>>>> main
 
 <<<
 <<<
