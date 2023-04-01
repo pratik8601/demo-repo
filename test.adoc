@@ -56,8 +56,70 @@ pass:[<div style="text-align:center; font-size:50px"><br>Week 1 <br> Requirement
 [cols="2%,18%,10%,15%,10%,10%,1%",options="header",]
 |===
 |SNo |Name |Entry No|Email|Designation|Vertical|IF
-stics|1
 
+|1|Divyansh Mohan Bansal |2020MT10800|bansal.divyansh14@gmail.com|Co-ordinator|Logistics|1
+|2|Ravi Raj Kumawat|2020MT10835|ravirajkumawat2020@gmail.com|Sub Co-ordinator|Logistics|1
+|3|Aashish Kumar|2020MT10778|aksofpm001@gmail.com|Sub Co-ordinator|Design|1
+|4|Hanish Goyal|2020MT10805|hanishgoyal0708@gmail.com|Sub Co-ordinator|Design|1
+|5|Abhinav Sharma|2020MT10780|abhi24082014sharma@gmail.com|Team Member|Design|1
+|6|Arshia|2020EE11002|arshia.rashi13@gmail.com|Team Member|Design|1
+|7|Krishna Kumar Singh|2020MT10814|sskrishna1122@gmail.com|Team Member|Design|0.7
+|8|Muvva Srija|2020EE30605|muvvasrija@gmail.com|Team Member|Design|1
+|9|Sanya Mehadia|2020EE30623|sanyaamehadia@gmail.com|Team Member|Design|0.4
+|10|Shivam Jharwal|2020MT60892|jharwalshivam@gmail.com|Team Member|Design|1
+|11|Shrey Chandra|2020EE10553|cshrey2002@gmail.com|Team Member|Design|0.4
+|12|Shubham Raj|2020EE10555|shubhamraj.tfx@gmail.com|Team Member|Design|1
+|13|Smrati Tripathi|2020MT10855|smrati.iitdelhi@gmail.com|Team Member|Design|0.7
+|14|Valla Chaitanya Krishna|2020EE10564|chaitanyakrishnavalla007@gmail.com|Team Member|Design|1
+|15|Atharva Pratap Suryawanshi|2020MT10791|suryawanshiatharva2029@gmail.com|Sub Co-ordinator|Documentation|1
+|16|Pratik Behera|2020MT10831|pratikbehera247@gmail.com|Sub Co-ordinator|Documentation|1
+|17|Aakrity Pandey|2020MT60865|ritaakrity@gmail.com|Team Member|Documentation|1
+|18|Adarsh Roy|2020MT10782|adarshroy.formal@gmail.com|Team Member|Documentation|0.7
+|19|Basani Tharuni|2020MT10793|basanitharunireddy20@gmail.com|Team Member|Documentation|0.7
+|20|Brahamjot Singh|2020MT10794|brahamjot2511@gmail.com|Team Member|Documentation|1
+|21|Deepak|2019MT10685|Deepakkhichar60@gmail.com|Team Member|Documentation|0.7
+|22|Kushagra|2020EE10603|kushagraiitdelhi2022@gmail.com|Team Member|Documentation|1
+|===
+[cols="2%,18%,10%,15%,10%,10%,1%",options="header",]
+|===
+|SNo |Name |Entry No|Email|Designation|Vertical|IF
+|23|Maitree Shandilya|2020EE10510|shandilyamaitree31@gmail.com|Team Member|Documentation|0.7
+|24|Manya Aggarwal|2019EE30579|manyaaggarwal2001@gmail.com|Team Member|Documentation|1
+|25|Mundlapati Unnathi Suneel|2020MT60883|unnathisuneelm@gmail.com|Team Member|Documentation|0.7
+|26|Naman Agrawal|2020MT60884|namanagrawal6517@gmail.com|Team Member|Documentation|1
+|27|Rani Meena|2020EE10537|konghyunjae.1997@gmail.com|Team Member|Documentation|0.4
+|28|Rhythm Gupta|2020MT10836|rhythmgupta.082@gmail.com|Team Member|Documentation|0.4
+|29|Sai Kiran Gunnala|2020MT60889|saikirangunnala16@gmail.com|Team Member|Documentation|1
+|30|Shubh Harkawat|2020MT10853|shubhharkawat@gmail.com|Team Member|Documentation|1
+|31|Harshvardhan Patel|2020MT10808|harshvardhanpatel2212@gmail.com|Sub Co-ordinator|Research-Apparatus|1
+|32|Aditya Agrawal|2020MT10783|agrawaladitya270@gmail.com|Sub Co-ordinator|Research-Apparatus|1
+|33|Aarya Oganja|2020EE10453|aaryaoganja@gmail.com|Team Member|Research-Apparatus|0.4
+|34|Ajay Kumar|2020MT60867|ajstyle9373443@gmail.com|Team Member|Research-Apparatus|0.7
+|35|Ayan Jain|2019MT10678|ayaen5601@gmail.com|Team Member|Research-Apparatus|0.4
+|36|Ayush Mishra|2020MT60234|theayushmishra345@gmail.com|Team Member| Research-Apparatus| 0.4
+|37|Bhavik Sankhla|2020MT60873|bhavik.jodhpur@gmail.com|Team Member|Research-Apparatus|1
+|38|Chandrakant Rajput|2020EE10485|ck9112002@gmail.com|Team Member| Research-Apparatus| 1
+|39|Dev verma|2020MT60875|devv1450@gmail.com|Team Member|Research-Apparatus|1
+|40|Jatin Jangpangi|2020MT10811|jatinjangpangi30.5@gmail.com|Team Member|Research-Apparatus|0.7
+|41|Kanishk Singhal|2019MT10698|kanishksinghal2001@gmail.com|Team Member|Research-Apparatus|1
+|===
+[cols="2%,18%,10%,15%,10%,10%,1%",options="header",]
+|===
+|SNo |Name |Entry No|Email|Designation|Vertical|IF
+|42|Kanishka Singh|2020MT60880|singhkanishka147@gmail.com|Team Member|Research-Apparatus|0
+|43|Mayunish Agarwal|2020MT10819|myunish@gmail.com|Team Member|Research-Apparatus|1
+|44|Nikhil Agarwal|2020MT10825|nikhil.agar147@gmail.com|Team Member|Research-Apparatus|1
+|45|Ojas Bhamare|2019MT10682|bhamareojas@gmail.com|Team Member|Research-Apparatus|0.4
+|46|Srishti Sachan|2020EE30628|srishtisachan18@gmail.com|Team Member|Research-Apparatus|1
+|47|Mohammad Areeb|2020MT10656|mohd.areeb02@gmail.com|Sub Co-ordinator|Research-Embedded Systems|1
+|48|Shreyansh Jain|2020MT10852|shreyanshj292@gmail.com|Sub Co-ordinator|Research-Embedded Systems|1
+|49|Kunal|2020EE10507|shahikunal436@gmail.com|Team Member|Research-Embedded Systems|0.4
+|50|Madhav Goel|2020MT10817|madhav1234vasu@gmail.com|Team Member|Research-Embedded Systems|0.7
+|51|Priyanshu Yadav|2020MT60618|priyanshu999yadav@gmail.com|Team Member|Research-Embedded Systems|0.4
+|52|Rahul kumar|2020MT10833|www.5234rahul@gmail.com|Team Member|Research-Embedded Systems|1
+|53|Rishabh Singh|2020EE30122 |notrishabhsingh@gmail.com|Team Member|Research-Embedded Systems|1
+|54|Sachin Kumar|2020EE10543|sachinmewal12345@gmail.com|Team Member|Research-Embedded Systems|1
+|55|Suhani Agrawal|2020EE30629|suhaniagrawal35@gmail.com|Team Member|Research-Embedded Systems|1
 
 
 |===
@@ -66,6 +128,18 @@ stics|1
 <<<
 [cols="2%,18%,10%,15%,10%,10%,1%",options="header",]
 |===
+|SNo |Name |Entry No|Email|Designation|Vertical|IF
+|56|Upasak Sharma|2020EE10310|upasak19dhotra@gmail.com|Team Member|Research-Embedded Systems|0
+|57|V Sai Niketh|2020MT60895|sainiketh2002@gmail.com|Team Member|Research-Embedded Systems|0.7
+|58|Vanchanagiri Alekhya|2020EE10565|alekhya.vanchanagiri@gmail.com|Team Member|Research-Embedded Systems|1
+|59|Vineet Kumar|2020MT10862|vkraj0383@gmail.com|Team Member|Research-Embedded Systems|1
+|60|Mohit Kumar Gond|2020MT10823|mohitgond170@gmail.com|Sub Co-ordinator| Research-Rotational Mechanics|1
+|61|Abhay Saini|2020EE10455|optimusprime94135@gmail.com|Team Member|Research-Rotational Mechanics|0.7
+|62|Ankit Kumar|2020MT10788|akmeena26012003@gmail.com|Team Member|Research-Rotational Mechanics|1
+|63|Arpit Goyal|2020MT60870|goyalarpit015@gmail.com|Team Member|Research-Rotational Mechanics|1
+|64|Bolledhu Sree Divya|2020EE10483|sreedivyab03@gmail.com|Team Member|Research-Rotational Mechanics|1
+|65|Dhruvendra|2020EE10487|endradhruv@gmail.com|Team Member|Research-Rotational Mechanics|1
+|66|Harsh Sharma|2019MT60628|harsh2001apcr@gmail.com|Team Member|Research-Rotational Mechanics|1
 |67|Kanta Meena|2020EE30601|Kantameenaiitd2000@gmail.com|Team Member|Research-Rotational Mechanics|0
 |===
 <<<
@@ -132,7 +206,8 @@ In this requirement report, you will find the implementation of a solution which
 image::https://drive.google.com/uc?export=download&id=1K3xtTmMU10nAHGnljiAwqPgEDCWxGxDb[iitd, 900, 900, align="center"]
 
 pass:[<div style="text-align:center; font-size:10px">Figure 1.1</div>]
-[[_Rotational_Appratus]]== 4.a Rotational Apparatus
+[[_Rotational_Appratus]]
+== 4.a Rotational Apparatus
 
 *Dual axis of Freedom:* Dual-axis solar trackers adjust the angle of solar panels
 in two dimensions, resulting in higher efficiency than single-axis
@@ -191,4 +266,16 @@ viable option for structure mounting.
 <<<
 [page]
 [[_ref]]
-1
+== 5. References
+1. S. Liu, Y. Liu, J. Li, Y. Li, and X. Chen, "A low-cost dual-axis solar tracking system based on digital logic design: Design and implementation," Journal of Renewable and Sustainable Energy, vol. 12, no. 1, p. 015005, 2020.
+2. P. Dunne, "What Is The Best Angle For Solar Panels: Tips For A Good Solar Panel Angle," Forbes, Nov. 2020.
+3. M. A. Rahman, M. R. Karim, and M. H. Ali, "Design and Analysis of a Low-Cost Solar Tracker," Energies, vol. 9, no. 9, p. 717, Aug. 2016. doi: 10.3390/en9090717.
+
+4. F. M. Hadi, A. H. A. Bakar, and M. A. Othman, "Material Selection for Solar Tracking System," in 2018 4th International Conference on Science and Technology (ICST), 2018, pp. 1-4. doi:10.1109/ICSTC.2018.8536349
+
+5. Renewable Watch, "Materials Analysis," [Online]. Available: https://renewablewatch.in/2019/06/28/materials-analysis/.[Accessed: Mar. 28, 2023].
+
+6. S. Schöberl and S. Völker, "A Guide to Mounting Structures for Solar Panels PV," [Online]. Available: https://sinovoltaics.com/solar-basics/a-guide-to-mountingstructures-for-solar-panels-pv/
+
+7. Solar Feeds, "Solar Trackers: Types and Its Advantages and Disadvantages," Solar Feeds Magazine, May 10, 2021, https://www.solarfeeds.com/mag/solar-trackers-types-and-its-advantages-and-disadvantages/.
+8. SolarSquare, "What is a Solar Tracker and How Does it Work?" SolarSquare Blog, Aug. 16, 2021, https://www.solarsquare.in/blog/solar-tracker/.git a
