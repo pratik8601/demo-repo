@@ -132,8 +132,7 @@ In this requirement report, you will find the implementation of a solution which
 image::https://drive.google.com/uc?export=download&id=1K3xtTmMU10nAHGnljiAwqPgEDCWxGxDb[iitd, 900, 900, align="center"]
 
 pass:[<div style="text-align:center; font-size:10px">Figure 1.1</div>]
-[[_Rotational_Appratus]]
-== 4.a Rotational Apparatus
+[[_Rotational_Appratus]]== 4.a Rotational Apparatus
 
 *Dual axis of Freedom:* Dual-axis solar trackers adjust the angle of solar panels
 in two dimensions, resulting in higher efficiency than single-axis
