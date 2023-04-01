@@ -1,0 +1,41 @@
+name: Compulsory Pull Request Check
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check-pull-request:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-latest, windows-latest]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      
+      - name: Check for changes in test.adoc
+        id: check-changes
+        run: |
+          if git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -q test.adoc; then
+            echo "Changes found in test.adoc, adding pull request check."
+            echo "::set-output name=changes::true"
+          else
+            echo "No changes found in test.adoc, skipping pull request check."
+            echo "::set-output name=changes::false"
+          fi
+      
+      - name: Create Pull Request
+        if: steps.check-changes.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v3
+        with:
+          title: Compulsory Pull Request
+          body: Please review and approve this pull request before merging.
+          commit-message: Add pull request check
+          branch: pull-request/$(echo $GITHUB_SHA | cut -c1-8)
+          base: main
+          labels: pull-request
+          assignees: ${{ github.actor }}
